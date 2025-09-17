@@ -157,8 +157,19 @@ Para reportar bugs o solicitar features, por favor abre un issue en el repositor
 
 ## 🎨 Screenshots
 
-*[Aquí puedes agregar capturas de pantalla del sistema en funcionamiento]*
+<img width="766" height="582" alt="image" src="https://github.com/user-attachments/assets/2341dcea-11fa-4066-9a76-ba39c6d5c57a" />
 
+<img width="851" height="483" alt="image" src="https://github.com/user-attachments/assets/10671c29-dad8-445a-8e6a-dab72a345f65" />
+
+<img width="1005" height="515" alt="image" src="https://github.com/user-attachments/assets/731170e3-5328-4169-84fc-655fbaf08b96" />
+
+<img width="1005" height="285" alt="image" src="https://github.com/user-attachments/assets/19d59384-4c86-49b2-b5e1-2cf6b046e5a7" />
+
+
+
+para correr el proyecto debes crear tu server local con MSQL  y tu propia db y reemplazar los campos en los archivos *mysql.properties* y 
+*crear_db_mysql.ps1*. 
 ---
+
 
 **Desarrollado con ❤️ desde COLOMBIA usando Java Swing y APIREST**
