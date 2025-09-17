@@ -172,4 +172,5 @@ para correr el proyecto debes crear tu server local con MSQL  y tu propia db y r
 ---
 
 
-**Desarrollado con ❤️ desde COLOMBIA usando Java Swing y APIREST**
+**Desarrollado con ❤️ desde COLOMBIA usando Java Swing, MYSQL , XML**
+
