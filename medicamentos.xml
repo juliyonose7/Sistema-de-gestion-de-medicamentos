@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<medicamentos>
+                                
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <medicamento cantidad="345" distribuidor="Cofarma" fecha="2025-09-04 17:54:50" nombre="WEDASDSA" tipo="Analéptico">
+                                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <sucursal>Principal</sucursal>
+                                                      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </medicamento>
+                          
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <medicamento cantidad="1" distribuidor="Empsephar" fecha="2025-09-04 17:57:58" nombre="ODITO" tipo="Antiácido">
+                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <sucursal>Principal</sucursal>
+                                                  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </medicamento>
+                        
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <medicamento cantidad="10" distribuidor="Cofarma" fecha="2025-09-04 18:02:12" nombre="DDAD" tipo="Analgésico">
+                                                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <sucursal>Principal</sucursal>
+                                              
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </medicamento>
+                      
+  
+  
+  
+  
+  
+        
+  
+  
+  
+  
+  
+  
+
+
+
+  
+  
+  
+
+
+  
+  <medicamento cantidad="23" distribuidor="Cofarma" fecha="2025-09-11 19:09:53" nombre="dasdsa" tipo="Analgésico">
+        
+    <sucursal>Principal</sucursal>
+      
+  </medicamento>
+  
+  <medicamento cantidad="4" distribuidor="Cofarma" fecha="2025-09-13 21:44:34" nombre="diclofenaco" tipo="AnalgÃ©sico">
+    <sucursal>Principal</sucursal>
+    <sucursal>Secundaria</sucursal>
+  </medicamento>
+</medicamentos>
